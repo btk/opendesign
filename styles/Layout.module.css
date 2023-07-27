@@ -1,0 +1,15 @@
+.fixed {
+  max-width: 1300px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin: auto;
+}
+
+@media (max-width: 600px) {
+  .fixed {
+    max-width: 1300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+  }
+}

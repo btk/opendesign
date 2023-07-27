@@ -1,0 +1,73 @@
+.thumbnail {
+  width: 100%;
+}
+
+.markdown a {
+  font-weight: 700;
+  text-decoration: none;
+  color: #30a1c3;
+}
+
+.markdown a:hover {
+  color: #1b7692;
+}
+
+.markdown blockquote {
+  background: #fafafa;
+  border-radius: 10px;
+  padding: 10px 20px;
+  box-shadow: 0 0.25rem 0.125rem 0 rgba(0,0,0,.05);
+  max-width: 860px;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+.markdown blockquote p {
+  margin-bottom: 0px;
+}
+
+.markdown p {
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-bottom: 18px;
+  max-width: 900px;
+  letter-spacing: 0px;
+}
+
+.markdown ul {
+  margin-top: 0px;
+}
+
+.markdown li {
+  padding: 0px;
+  margin: 0px;
+  font-size: 16px;
+  line-height: 28px;
+  margin-bottom: 4px;
+  max-width: 900px;
+  letter-spacing: 0px;
+}
+
+.markdown code {
+  background: #fafafa;
+  border: 1px solid #eee;
+  padding: 5px 10px;
+  display: block;
+  border-radius: 3px;
+}
+
+@media (max-width: 800px) {
+
+  .markdown p {
+    font-size: 16px;
+    line-height: 27px;
+  }
+
+  .markdown li {
+    font-size: 16px;
+    line-height: 25px;
+  }
+
+}

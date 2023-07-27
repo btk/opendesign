@@ -1,0 +1,119 @@
+.footerCarrier {
+  background: #f1f5f9;
+  margin-top: 20px;
+}
+
+.footer {
+  margin: auto;
+  max-width: 1300px;
+  padding: 25px;
+  padding-top: 25px;
+}
+
+.footer ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+.footer ul li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.footer ul li a {
+  border-bottom: 1px solid #e1e1e1;
+  padding-bottom: 1px;
+}
+
+.footerInner {
+  display: flex;
+  flex-direction: row;
+}
+
+.footerInner > div {
+  flex: 1;
+}
+
+.footerLogoHolder {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  flex: 2 !important;
+}
+
+.footerLogoHolder p {
+  margin-right: 20px;
+  margin-top: 20px;
+  opacity: 0.8;
+}
+
+.logo {
+  margin-right: 20px;
+  margin-top: 5px;
+}
+
+.footerBottom {
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 1px solid #e1e1e1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footerBottom a {
+  margin-left: 20px;
+  border-bottom: 1px solid #e1e1e1;
+  padding-bottom: 1px;
+}
+
+.socialLinks {
+  position: relative;
+  left: -10px;
+}
+
+.socialLinks a {
+  padding: 8px;
+  opacity: 0.63;
+  margin: 2px;
+}
+
+.socialLinks a:hover {
+  opacity: 1;
+}
+
+.logoHolder {
+  display: block;
+}
+
+.logoHolderDark {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    margin: auto;
+    max-width: 1300px;
+    padding: 20px;
+    padding-top: 20px;
+  }
+
+  .footerInner {
+    flex-direction: column;
+  }
+
+  .footerBottom {
+    flex-direction: column;
+  }
+
+  .footerBottom div:nth-child(2){
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+  }
+
+  .footerBottom a {
+    margin: 0px;
+    padding: 5px 0px;
+  }
+
+}
