@@ -1,8 +1,8 @@
-Version 2.1
+_Version 1.1_
 
-The Open Design makes precise the meaning of “open” with respect to knowledge, promoting a robust commons in which anyone may participate, and interoperability is maximized.
+The Open Design states what "open" means for knowledge, supporting a strong shared resource that anyone can join, and ensuring that things work well together.
 
-**Summary:** _Design is open if anyone is free to access, use, modify, and share it — subject, at most, to measures that preserve provenance and openness._
+**Summary:** _Design that is licenced as **Open Design License 1.1** is accessible to anyone who is able to get, use, change, and share it - as long as it is kept track of, not redistributed in the same way and available to everyone._
 
 This essential meaning matches that of “open” with respect to software as in the [Open Source Definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) and is synonymous with “free” or “libre” as in the [Free Software Definition](https://en.wikipedia.org/wiki/The_Free_Software_Definition) and [Definition of Free Cultural Works](https://en.wikipedia.org/wiki/Definition_of_Free_Cultural_Works).
 
@@ -52,7 +52,7 @@ The **license** _must_ allow free use of the licensed work.
 
 #### 2.1.2 Redistribution
 
-The **license** _must_ allow redistribution of the licensed work, including sale, whether on its own or as part of a collection made from works from different sources.
+The **license** _must_ allow redistribution of the licensed work, including sale, whether on its own or as part of a collection made from works from different sources, with condition of not redistributing in same or similar way.
 
 #### 2.1.3 Modification
 

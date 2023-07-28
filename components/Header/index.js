@@ -8,7 +8,7 @@ function Header(){
     <>
       <div className={styles.header}>
         <div className={styles.headerHolder}>
-          <img className={styles.logo} src={"/logo.svg"} width={140} height={30} alt={`SVG Repo - Search, explore, edit and share open licensed SVG vectors`} />
+          <Link href="/"><img className={styles.logo} src={"/logo.svg"} width={140} height={30} alt={`SVG Repo - Search, explore, edit and share open licensed SVG vectors`} /></Link>
 
           <ul className={styles.menuMobile} style={{display: "auto"}}>
             <li>
