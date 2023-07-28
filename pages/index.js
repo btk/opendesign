@@ -1,17 +1,18 @@
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import SEO from '@/components/SEO'
+import Layout from '@/components/layout';
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <Layout isHome={true}>
       <SEO
-        title="VRUX - Virtual Reality Prototyping Tool" isHome={true}
+        title="Open Design - License for Design" isHome={true}
         description="VRUX is an open-source software that makes prototyping VR experiences crazy fast and intuitive, express interest below."
       />
+      <div>
 
       <main className={styles.main}>
-        <Image src={"/logo.svg"} width={250} height={100} style={{ paddingBottom: 20}}/>
         <h1 style={{display: "none"}}>Open Design</h1>
         <h2 className={styles.tagline}>Open Design License 1.0</h2>
 
@@ -174,6 +175,7 @@ export default function Home() {
       <footer className={styles.footer}>
           <p style={{opacity: 0.5}}>&copy; {new Date().getFullYear()} &middot; <a href="https://dreamoriented.org" target="_blank" rel="noreferrer" style={{fontWeight: "normal"}}>Dream Oriented Limited</a></p>
       </footer>
-    </div>
+      </div>
+    </Layout>
   )
 }

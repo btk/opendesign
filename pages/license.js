@@ -15,10 +15,10 @@ export default function MDPage({content}) {
   return (
     <Layout>
       <Head>
-        <title>Licensing - SVG Repo</title>
+        <title>License - SVG Repo</title>
         <meta name="description" content="Learn more about the icons listed on svgrepo.com and what type of licensing terms they are under. See the differences between different licenses." />
       </Head>
-      <h1>Licensing</h1>
+      <h1>License</h1>
       <div
         className={markdownStyles['markdown']}
         dangerouslySetInnerHTML={{ __html: content }}

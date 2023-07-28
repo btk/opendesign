@@ -6,9 +6,9 @@ function Header(){
 
   return(
     <>
-      <div className={styles.header}>
-        <div className={styles.headerHolder}>
-          <img className={styles.logo} src={"/logo.svg"} width={73} height={22} alt={`SVG Repo - Search, explore, edit and share open licensed SVG vectors`} />
+      <div className={styles.hero}>
+        <div className={styles.heroHolder}>
+          <img className={styles.logo} src={"/logo.svg"} width={250} height={100} alt={`Open Design Logo`} />
         </div>
       </div>
       <div className={styles.headerSpacer}></div>

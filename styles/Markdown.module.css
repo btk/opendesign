@@ -5,11 +5,11 @@
 .markdown a {
   font-weight: 700;
   text-decoration: none;
-  color: #30a1c3;
+  color: #c37c30;
 }
 
 .markdown a:hover {
-  color: #1b7692;
+  color: #3070c3;
 }
 
 .markdown blockquote {

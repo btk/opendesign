@@ -6,7 +6,7 @@ import { Inter } from '@next/font/google'
 // If loading a variable font, you don't need to specify the font weight
 const inter = Inter({
     subsets: ['latin'],
-    weight: ['300', '400', '600', '700'],
+    weight: ['300', '400', '600', '800'],
 })
 
 function MyApp({ Component, pageProps }) {
