@@ -200,6 +200,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 ==========
 
-If you have any questions about this Privacy Policy, please [contact us](/page/contact).
+If you have any questions about this Privacy Policy, please [contact us](/contact/).
 
 > Latest edit to this page made on **November 8, 2022** and using the services of this website after this date means you understand and accept the the terms of use of this website and listed licenses.

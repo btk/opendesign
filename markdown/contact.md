@@ -5,25 +5,18 @@ If you need to get in contact with us for any reason of following, giving feedba
 Our contact information;
 
 ### Feedback Contact
-<feedback@svgrepo.com>
+<feedback@opendesign.fyi>
 
 We value what you think, and keep working on a better user experience. If you take the time to share your ideas, we promise you we will evaluate it, and even implement it as fast as we can!
 
 ### Legal and Takedown Contact
-<legal@svgrepo.com>
+<legal@opendesign.fyi>
 
-We list content from licenses fitting the criteria from our [Licensing](/page/licensing) page. If we have mistaken or distributed the content you or your company own wrongly. Use this email to give us a notice, your notices will be processed and we will inform you about it in less than 7 business days.
+We list content from licenses fitting the criteria from our [Licensing](/license/) page. If we have mistaken or distributed the content you or your company own wrongly. Use this email to give us a notice, your notices will be processed and we will inform you about it in less than 7 business days.
 
 Usually we answer this requests in the same day.
 
-### Advertisement Contact
-<ads@svgrepo.com>
-
-We offer multiple ways to promote your business and products, in a clean and respectful manner to our users. This options includes native advertising, promoted blog posts, social media shout-outs and weekly mail campaign mentions.
-
-Keep in mind since our goal is to supply free content, we will **not sell your content** directly on our platform, as premium content or redirect users to your product with any visible price information.
-
 ### General Contact
-<info@svgrepo.com>
+<info@opendesign.fyi>
 
 If your reason to contact doesn't fit any other category, get in touch with us with this email. Keep in mind answer to this email might be slower than others.
