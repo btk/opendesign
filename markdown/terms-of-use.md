@@ -1,6 +1,6 @@
 Any software or product created by SVG Repo has no warranty, unless otherwise is stated. We don't accept liability for legal, medical or technical issues that might occur in result of using our products, services and software distributions.
 
-SVG Repo is not liable for misusing artwork or source code listed in [Licensing](/License/) page, please take the extra step to make sure you are using content appropriate way.
+SVG Repo is not liable for misusing artwork or source code listed in [Licensing](/license/) page, please take the extra step to make sure you are using content appropriate way.
 
 SVG Repo is hosted in AWS via Vercel, see their [terms of service](https://vercel.com/legal/terms).
 
