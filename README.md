@@ -1,3 +1,7 @@
+<a href="https://opendesign.fyi/license/" target="_blank" title="Licensed with Open Design License.">
+<img src="https://opendesign.fyi/banners/banner1.svg" alt="Open Design License" title="Licensed with Open Design License." width="132px" height="49px"/>
+</a>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
