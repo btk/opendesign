@@ -7,7 +7,12 @@ function Footer(){
     <>
       <div className={styles.footerCarrier}>
         <footer className={styles.footer}>
-            <p style={{opacity: 0.5}}>&copy; {new Date().getFullYear()} &middot; <a href="https://dreamoriented.org" target="_blank" rel="noreferrer" style={{fontWeight: "normal"}}>Dream Oriented Limited</a></p>
+          <p>&copy; {new Date().getFullYear()} &middot; <a href="https://dreamoriented.org" target="_blank" rel="noreferrer" style={{fontWeight: "normal"}}>Open Design License</a></p>
+          <p>
+            <Link href="/terms-of-use/" style={{fontWeight: "normal"}}>Terms of Use</Link>
+            <Link href="/privacy-policy/" style={{fontWeight: "normal", marginLeft: 20}}>Privacy Policy</Link>
+            <Link href="/contact/" style={{fontWeight: "normal", marginLeft: 20}}>Contact</Link>
+          </p>
         </footer>
       </div>
     </>

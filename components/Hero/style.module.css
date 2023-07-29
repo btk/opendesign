@@ -44,8 +44,8 @@
 @media (max-width: 600px) {
 
   .heroHolder {
-    justify-content: space-between;
-    padding-top: 40px;
+    justify-content: center;
+    padding-top: 30px;
   }
 
   .hero h2 {
